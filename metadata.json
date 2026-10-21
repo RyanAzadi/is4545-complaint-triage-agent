@@ -1,0 +1,7 @@
+{
+  "name": "Healthcare Complaint Triage Assistant",
+  "description": "Clinical and operational complaint triage system for healthcare organizations to review, prioritize, assess risk, and route patient grievances with human oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
